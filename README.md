@@ -31,7 +31,7 @@
 ![Edit Barang](![edit barang](https://github.com/user-attachments/assets/234e3c8a-5c0c-4ad7-ab2b-603d32fef3b6)
 
 ---
-## Praktikum 08
+## Praktikum 09
 
 ### Database di tableplus
 ![Screenshot 2024-11-15 223619](https://github.com/user-attachments/assets/c3bb3fa0-e52e-430f-8016-4d9cf43b7bd8)
