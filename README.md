@@ -68,6 +68,43 @@ Setelah di perbaiki, form berhasil masuk ke database ketika menambahkan datanya.
 ### Tampilan di users ketika sudah menambahkan datanya
 ![Screenshot (2053)](https://github.com/user-attachments/assets/e8d79950-4ae2-45aa-83b6-2d4bc06e6d62)
 
+---
+## Praktikum 10
+
+### Tampilan halaman users
+![Screenshot (2084)](https://github.com/user-attachments/assets/7d646763-6db2-4059-a2cb-b9f90aa10dca)
+
+### Tampilan halaman users yang ingin di edit
+![Screenshot (2085)](https://github.com/user-attachments/assets/e2a170a4-07b9-46da-ba4c-54e16c7061d3)
+bagian dalam aplikasi yang memungkinkan admin atau pengguna tertentu untuk memperbarui informasi pengguna yang sudah ada.
+
+### Halaman Create New User
+![Screenshot (2086)](https://github.com/user-attachments/assets/da248055-ed04-4457-8761-0e6545ef4635)
+Bagian ini dimana pengguna bisa menambahkan user ke dalam sistemnya.
+
+### Mengedit halaman edit user
+![Screenshot (2087)](https://github.com/user-attachments/assets/4401b86e-cd3d-4321-99d4-bc91b84f2f17)
+Bagian ini mengedit halaman user dan juga bagian tombol submitnya menjadi update. Ketika link ini diklik, pengguna akan diarahkan ke halaman yang menangani pengeditan informasi user, biasanya menampilkan formulir untuk memperbarui data seperti nama, email, atau atribut lainnya.
+
+### Tabel user
+![Screenshot (2088)](https://github.com/user-attachments/assets/742d431c-c4f5-4ddc-ab02-fe5879b56ba5)
+halaman yang menyajikan tabel dengan daftar nama-nama pengguna beserta informasi terkait, seperti waktu penambahan atau pengeditan.
+
+### Halaman view dan delete
+![Screenshot (2090)](https://github.com/user-attachments/assets/4af15fa9-bd0a-411c-a431-29b73ae1608b)
+Halaman View digunakan untuk melihat detail lengkap dari seorang pengguna. Hal ini mempermudah admin atau pengguna tertentu dalam memverifikasi data atau mempelajari lebih lanjut informasi terkait user tersebut. Halaman delete digunakan untuk para pengguna bisa menghapus user yang sudah di tambahkan.
+
+### Halaman login
+![Screenshot (2091)](https://github.com/user-attachments/assets/628eb35a-e182-4149-a656-5d13bc6b623a)
+Halaman login biasanya digunakan untuk memungkinkan pengguna memasukkan kredensial (email/username dan password) agar dapat mengakses aplikasi.
+
+
+
+
+
+
+
+
 
 
 
