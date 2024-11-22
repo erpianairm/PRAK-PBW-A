@@ -1,4 +1,4 @@
-# PRAKTIKUM PBW A - 5 #
+# PRAKTIKUM PBW A #
 # Selamat Datang di MVC Application Penjualan Barang #
 
 
@@ -97,6 +97,11 @@ Halaman View digunakan untuk melihat detail lengkap dari seorang pengguna. Hal i
 ### Halaman login
 ![Screenshot (2091)](https://github.com/user-attachments/assets/628eb35a-e182-4149-a656-5d13bc6b623a)
 Halaman login biasanya digunakan untuk memungkinkan pengguna memasukkan kredensial (email/username dan password) agar dapat mengakses aplikasi.
+
+### Halaman Login 2
+![image](https://github.com/user-attachments/assets/5faefd13-15eb-4da8-b5cd-f3d9638c3b9d)
+progress terakhir belum bisa login, nanti akan di perbaiki.
+
 
 
 
