@@ -102,6 +102,55 @@ Halaman login biasanya digunakan untuk memungkinkan pengguna memasukkan kredensi
 ![image](https://github.com/user-attachments/assets/5faefd13-15eb-4da8-b5cd-f3d9638c3b9d)
 progress terakhir belum bisa login, nanti akan di perbaiki.
 
+---
+## Praktikum 11
+
+Pada praktikum 11 ini, membuat laravel breeze. Laravel Breeze merupakan starter kit otentikasi sederhana dan ringan yang disediakan oleh Laravel untuk memudahkan pengaturan fitur otentikasi dasar. kali ini laravel breezenya menggunakan blade dan Alpine.js untuk memberikan pengalaman front-end yang minimalis dan efisien. Breeze sangat cocok untuk proyek yang membutuhkan implementasi otentikasi cepat tanpa banyak konfigurasi tambahan.
+
+### Tampilan halaman dashboard sebelum melakukan login/registrasi
+![Screenshot (2111)](https://github.com/user-attachments/assets/e1e184d9-1194-43de-bdbc-df2ba0eeba40)
+ketika sudah menginstall laravel breeze dan sebagainya jadi sebuah dashboard sebelum login/registrasi.
+
+### Tampilan halaman dashboard sesudah login
+![Screenshot (2112)](https://github.com/user-attachments/assets/143574b3-bb74-42b6-977f-93285a91b356)
+Sebelum melakukan login, tentunya daftar atau registrasi terlebih dahulu.
+
+### Tampilan profile 
+![Screenshot (2113)](https://github.com/user-attachments/assets/db2b0474-83d4-429a-838a-f652955c9abe)
+ketika ingin mengedit profile halamannya seperti itu dan halaman tersebut masih bawaan pada laravel breezenya.
+
+### Tampilan halaman store
+![Screenshot (2115)](https://github.com/user-attachments/assets/36396189-375b-486f-9c37-9fd42a53932f)
+
+### Tampilan halaman home di dashboard
+![Screenshot (2116)](https://github.com/user-attachments/assets/c1f87dbc-ae11-4afa-982e-d8ec8ac5222b)
+Setelah melakukan perubahan pada code, berikut tampilan home dan beserta tampilan pilihan untuk membuka halaman dashboard, create new store, profile dan logout. Pada halaman create new store pengguna bisa membuat store terbaru, profile yaitu menampilkan data si penggunanya dan logout ketika pengguna ingin keluar dari akun tersebut.
+
+### Tampilan create a store
+![Screenshot (2118)](https://github.com/user-attachments/assets/8cef7a38-6f6b-4830-97d5-bc1616238535)
+Pengguna bisa membuat store baru melalui halaman tersebut.
+
+### Hasil input gambar
+![Screenshot (2123)](https://github.com/user-attachments/assets/4344c4b6-5d11-40e5-a9f2-ed44d5dcc75d)
+Ketika pengguna membuat store baru dengan memasukkan gambar, gambar yang di input tersebut masuk ke storage/app/immages/store.
+
+### Tampilan halaman store
+![Screenshot (2124)](https://github.com/user-attachments/assets/723448ca-7b9c-48b6-92b5-135152d330d7)
+Tampilan pada store, sedang dalam perbaikan karena image belum muncul.
+
+### Tampilan edit store
+![Screenshot (2125)](https://github.com/user-attachments/assets/1853fa33-d637-4e1c-8bf3-a92a66a0c06e)
+Pada setiap store, pengguna bisa mengedit datanya.
+
+
+
+
+
+
+
+
+
+
 
 
 
