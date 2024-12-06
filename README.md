@@ -142,6 +142,66 @@ Tampilan pada store, sedang dalam perbaikan karena image belum muncul.
 ![Screenshot (2125)](https://github.com/user-attachments/assets/1853fa33-d637-4e1c-8bf3-a92a66a0c06e)
 Pada setiap store, pengguna bisa mengedit datanya.
 
+---
+## Praktikum 12
+
+### Tampilan halaman stores
+![Screenshot (2)](https://github.com/user-attachments/assets/825afa15-8a87-4fa0-ab6c-f17d5421072d)
+
+### Perintah di Laravel Artisan yang membuka REPL (Read-Eval-Print Loop) untuk menjalankan kode PHP dalam konteks aplikasi Laravel
+![Screenshot 2024-12-06 130359](https://github.com/user-attachments/assets/b4818fe5-8827-4124-af37-5474295137cb)
+
+### Perintah php artisan migrate:fresh --seed
+![Screenshot 2024-12-06 143143](https://github.com/user-attachments/assets/efb8c11e-52aa-4345-b7ac-ef9d8b199cfe)
+digunakan di Laravel untuk menghapus seluruh tabel dalam database, membuat ulang tabel-tabel sesuai dengan definisi migrasi
+
+### Tampilan roles di database
+![Screenshot 2024-12-06 143237](https://github.com/user-attachments/assets/b99a6b6d-3d61-4b5e-b4e6-bd89a39cefe4)
+
+### Tampilan users di database
+![Screenshot 2024-12-06 143523](https://github.com/user-attachments/assets/0ebe4d29-6657-4369-94c7-7c8ce3f4b5c1)
+
+### Tampilan roles di database setelah di migrate lagi
+![Screenshot 2024-12-06 144604](https://github.com/user-attachments/assets/f85f6dae-7bee-41bb-ab2f-c587744462ea)
+
+### Halaman list store
+![Screenshot (3)](https://github.com/user-attachments/assets/dc259b53-05d7-4c33-b72e-26db6f622f3e)
+Membuat path list blade di store untuk menampilkan produk atau gambar ke dalam store.
+
+### Tampilan list store ketika menggunakan perintah npm run dev
+![Screenshot (5)](https://github.com/user-attachments/assets/efd06599-fd41-4e40-b266-1a8a458dc04e)
+
+### Tampilan list store ketika menambahkan delete ke dalam list
+![Screenshot (6)](https://github.com/user-attachments/assets/a882a573-1b6b-46ad-9cde-0ef265c5d899)
+
+### Ketika salah satu produk atau gambar yang di approve
+![Screenshot (7)](https://github.com/user-attachments/assets/759f7630-ca71-4371-a07a-415ebae5c21c)
+
+### Yang di approve akan muncul di halaman store
+![Screenshot (8)](https://github.com/user-attachments/assets/7d0305ff-03ea-448c-90b1-16ab4975e4e7)
+
+### Menggunakan akun lain untuk membuat store baru
+![Screenshot (9)](https://github.com/user-attachments/assets/204122a4-256f-4e26-afb0-2a5163828907)
+
+### Akan otomatis ditambahkan ke list store admin
+![Screenshot (10)](https://github.com/user-attachments/assets/78a8ebb3-7b8b-42f4-8f52-5f1efe8ec0b9)
+
+### Jika di approve dari akun lain itu, akan muncul juga di store admin
+![Screenshot (11)](https://github.com/user-attachments/assets/0473516e-1ba3-4731-b662-1dceab9c47b2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
