@@ -189,6 +189,49 @@ Membuat path list blade di store untuk menampilkan produk atau gambar ke dalam s
 ### Jika di approve dari akun lain itu, akan muncul juga di store admin
 ![Screenshot (11)](https://github.com/user-attachments/assets/0473516e-1ba3-4731-b662-1dceab9c47b2)
 
+---
+## Praktikum 13
+
+### Tampilan Home
+![Screenshot (18)](https://github.com/user-attachments/assets/e61a306e-f0c1-4192-92d1-8e5aa947b47c)
+
+### Tampilan Stores
+![image](https://github.com/user-attachments/assets/a64dc6c3-1b56-42ec-afb8-4b999c15eac8)
+
+### Tampilan Dashboard
+![image](https://github.com/user-attachments/assets/f397ea1b-2f65-49e6-a956-f8642b4f577a)
+
+### Tampilan List Stores
+![image](https://github.com/user-attachments/assets/59784c79-fdd6-4ec1-b9c8-2ec1c7dd6f2f)
+![image](https://github.com/user-attachments/assets/d25cc301-b8c2-4cbd-9e77-56c55998bfff)
+
+### Tampilan My Store
+![image](https://github.com/user-attachments/assets/a9ca353a-ceb7-4462-96fd-afc515ef268d)
+![image](https://github.com/user-attachments/assets/47795d80-0824-4976-8af0-91a6bbdbf422)
+
+### Tampilan Create store
+![image](https://github.com/user-attachments/assets/e2fe0565-4b38-4003-9a17-522da2428467)
+
+### Tampilan Footer
+![image](https://github.com/user-attachments/assets/05cdfb0f-9f02-434b-a800-254cdac2fa3b)
+
+### Tampilan Login
+![image](https://github.com/user-attachments/assets/ba9116d6-d7ae-48ca-b8bd-0c9597cbf035)
+
+### Tampilan dari user lain di My Stores
+![image](https://github.com/user-attachments/assets/3ba64c01-92a2-4503-a4d1-c448bd293496)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
