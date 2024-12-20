@@ -221,6 +221,37 @@ Membuat path list blade di store untuk menampilkan produk atau gambar ke dalam s
 ### Tampilan dari user lain di My Stores
 ![image](https://github.com/user-attachments/assets/3ba64c01-92a2-4503-a4d1-c448bd293496)
 
+---
+## Praktikum 13
+
+### Tampilan database ketika dimunculkan slug dan ada status pending atau active nya
+![Screenshot 2024-12-20 004801](https://github.com/user-attachments/assets/621ce80d-beba-4fc3-8821-c18c2f5e4b63)
+
+### Tampilan store 
+![Screenshot (28)](https://github.com/user-attachments/assets/2b2161eb-92e0-4f11-b0fc-2e9bf64c7ccf)
+
+### Tampilan ketika store nya di klik ada storenya lagi di dalam
+![Screenshot (29)](https://github.com/user-attachments/assets/99315699-797f-4124-bde7-f9b2b1b683c0)
+
+### Tampilan store di dalam store yang menampilkan sebuah harga nya juga menggunakan IDR
+![Screenshot (32)](https://github.com/user-attachments/assets/893fdecf-501c-441b-940a-1eda25776ddd)
+
+### Tampilan list store yang menampilkan berapa banyak product tersebut
+![Screenshot (35)](https://github.com/user-attachments/assets/c6958216-ad1a-4b4d-a265-26c71a423681)
+
+### Menggunakan pagination di store dalam store
+![Screenshot (36)](https://github.com/user-attachments/assets/ef66e473-1b21-450c-b58f-0c70d89d5d7c)
+
+### Tampilan halaman home
+![Screenshot (37)](https://github.com/user-attachments/assets/b7b0f034-bb68-4730-9477-a497026c95ba)
+
+
+
+
+
+
+
+
 
 
 
