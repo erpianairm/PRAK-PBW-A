@@ -222,7 +222,7 @@ Membuat path list blade di store untuk menampilkan produk atau gambar ke dalam s
 ![image](https://github.com/user-attachments/assets/3ba64c01-92a2-4503-a4d1-c448bd293496)
 
 ---
-## Praktikum 13
+## Praktikum 14
 
 ### Tampilan database ketika dimunculkan slug dan ada status pending atau active nya
 ![Screenshot 2024-12-20 004801](https://github.com/user-attachments/assets/621ce80d-beba-4fc3-8821-c18c2f5e4b63)
